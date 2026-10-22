@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Disha Kadam 👋
 
-<!--
-**disha160/disha160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Python, Data Analytics, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, SQL, data analysis, and Git/GitHub.
+
+## 🛠️ Skills I'm Building
+- Python
+- SQL
+- Pandas and NumPy
+- Machine Learning fundamentals
+- Git and GitHub
+
+## 🚀 Projects
+- **Student Placement Prediction System** — A machine learning project for predicting student placement outcomes.
+- **yuvaIntern_Fundamentals-and-Setup-task_1** — A beginner Python project demonstrating environment setup and version control.
+
+## 🎯 Goals
+- Build practical projects.
+- Strengthen my problem-solving skills.
+- Prepare for entry-level technology roles.
+
+## 🤝 Connect With Me
+- GitHub: [@disha160](https://github.com/disha160)
+
+Thanks for visiting my profile! 😊
